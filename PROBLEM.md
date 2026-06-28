@@ -71,4 +71,3 @@ Sample Case 2
   repeatWatch = [3, 6, 8, 7, 6]
   Strategy: first-watch video 0 (2+3=5), rewatch it 5x (3*5=15).
   Output: 20
-
